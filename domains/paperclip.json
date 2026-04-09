@@ -1,7 +1,7 @@
 {
   "owner": {
-    "username": "pragmatic-org",
-    "email": "ops@pragmatic.com"
+    "username": "pragmatic-company",
+    "email": "contact@pragmatic.com"
   },
   "record": {
     "CNAME": "paperclip-ai.pages.dev"
